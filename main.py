@@ -8,7 +8,7 @@ import UnitSpecificDimensionLineFitting
 import matplotlib.pyplot as plt
 
 
-def main():
+def main(): # test
     # 1: PREALLOCATION AND INITIALIZATION
     repetitions = 10
     parameters, units = Init.initialize()
