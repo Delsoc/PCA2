@@ -2,7 +2,7 @@ from copy import deepcopy
 import math
 import numpy as np
 from scipy.linalg import orth
-from tables import parameters
+#from tables import parameters
 
 
 def Find(liste, units, p):

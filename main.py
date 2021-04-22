@@ -1,4 +1,4 @@
-from docutils.nodes import paragraph
+#from docutils.nodes import paragraph
 
 import Init
 import stimulus_activation
@@ -8,7 +8,7 @@ import UnitSpecificDimensionLineFitting
 import matplotlib.pyplot as plt
 
 
-def main(): # test
+def main():
     # 1: PREALLOCATION AND INITIALIZATION
     repetitions = 10
     parameters, units = Init.initialize()
